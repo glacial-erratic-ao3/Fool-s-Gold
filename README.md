@@ -13,3 +13,5 @@ for peeps on mobile the order is:
 7. The Freckles and The Moles On Your Back
 8. Visions Of A Life
 9. 79 AU
+
+I think they look best downloaded rather than read from the GitHub page but whatever works best :)
